@@ -15,7 +15,7 @@ dotenv==0.9.9
 fastapi==0.115.13
 frozenlist==1.7.0
 httpcore==0.13.3
-httpx==1.0.0b0
+httpx==0.27
 idna==3.10
 jiter==0.10.0
 multidict==4.5.2  # Понижено до версии, совместимой с aiohttp 4.0.0a1
